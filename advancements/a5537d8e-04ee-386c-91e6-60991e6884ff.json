@@ -1,0 +1,40 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2025-12-05 12:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-12-05 12:20:24 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:storm_channeling": {
+    "criteria": {
+      "tick": "2025-12-05 12:20:24 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2025-12-05 12:20:24 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2025-12-05 12:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2025-12-05 12:21:10 +0000",
+      "minecraft:plains": "2025-12-05 12:20:48 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 4556
+}

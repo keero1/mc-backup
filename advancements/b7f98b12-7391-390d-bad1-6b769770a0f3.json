@@ -1,0 +1,33 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2025-11-28 03:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-11-28 03:58:47 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:storm_channeling": {
+    "criteria": {
+      "tick": "2025-11-28 03:58:47 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2025-11-28 03:58:47 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2025-11-28 03:58:47 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4556
+}
